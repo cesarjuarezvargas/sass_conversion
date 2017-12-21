@@ -1,2 +1,2 @@
-# sass_conversion
-In_class_exercise_web_dev_one
+# sass-conversion
+Sample Site to be used as practice in converting CSS to SASS
